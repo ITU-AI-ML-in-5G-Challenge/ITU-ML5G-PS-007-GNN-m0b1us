@@ -36,4 +36,12 @@ python3 std_predict.py -ds CBR+MB --ckpt-path weights/150-15.7196 \
 --te-path datasets/data_test/
 ```
 
+# Credits
+This project would not have been possible without the contribution of:
+[Cláudio Matheus Modesto](https://github.com/claudio966) - [LASSE](https://github.com/lasseufpa), Federal University of Pará
+[Rebecca Aben-Athar](https://github.com/rebeccaathar) - [LASSE](https://github.com/lasseufpa)
+Andrey Silva - Ericsson
+Silvia Lins - Ericsson
+
+
 
