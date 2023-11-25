@@ -1,4 +1,4 @@
-# ITU-ML5G-PS-007-GNN-m0b1us
+# Enhanced GNN generalization to Real Network Dataset by Attention Mechanism and Weight Initialization Optimization
 1st place solution of Graph Neural Networking Challenge 2023
 
 To use this code, you should follow the tutorial described below. 
@@ -38,6 +38,7 @@ python3 std_predict.py -ds CBR+MB --ckpt-path weights/150-15.7196 \
 
 # Credits
 This project would not have been possible without the contribution of:
+
 [Cláudio Matheus Modesto](https://github.com/claudio966) - [LASSE](https://github.com/lasseufpa), Federal University of Pará
 
 [Rebecca Aben-Athar](https://github.com/rebeccaathar) - [LASSE](https://github.com/lasseufpa), Federal University of Pará
