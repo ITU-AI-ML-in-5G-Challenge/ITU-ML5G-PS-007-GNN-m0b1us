@@ -1,4 +1,4 @@
-# Enhanced GNN generalization to Real Network Dataset by Attention Mechanism and Weight Initialization Optimization
+# Enhanced GNN generalization to Real Network Dataset by Attention Mechanism
 ## 1st place solution of Graph Neural Networking Challenge 2023
 
 ## The problem
