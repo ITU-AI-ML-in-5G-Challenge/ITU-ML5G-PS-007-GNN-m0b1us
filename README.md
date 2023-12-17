@@ -4,6 +4,8 @@
 ## The problem
 The goal of this challenge is to create a Network Digital Twin based on neural networks which can accurately estimate QoS performance metrics given the network state and the input traffic. More in detail, solutions must predict the resulting per-flow mean delay given: (i) a network topology (L2 and L3), (ii) a set of input flow packet traces, and (iii) a routing configuration. The following figure presents a schematic representation.
 
+## Presentation and Awards Ceremony
+[<img src="https://raw.githubusercontent.com/ITU-AI-ML-in-5G-Challenge/ITU-ML5G-PS-007-GNN-m0b1us/main/thumbnail_presentation_awards.jpg" width="50%">](https://youtu.be/ebaKcQV2Zok)
 
 ## Instructions to Replicate our Solution
 To use this code, you should follow the tutorial described below. 
