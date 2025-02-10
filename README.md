@@ -46,6 +46,7 @@ python3 std_predict.py -ds CBR+MB --ckpt-path weights/150-15.7196 \
 # Credits
 If you benefit from this work, please cite on your publications using:
 
+```
 @ARTICLE{Modesto2024gnn,
   title     = "Delay estimation based on multiple stage message passing with
                attention mechanism using a real network communication dataset",
@@ -61,7 +62,7 @@ If you benefit from this work, please cite on your publications using:
   year      =  2024,
   language  = "en"
 }
-
+```
 
 
 
