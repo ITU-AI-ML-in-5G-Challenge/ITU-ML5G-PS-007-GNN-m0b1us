@@ -44,15 +44,24 @@ python3 std_predict.py -ds CBR+MB --ckpt-path weights/150-15.7196 \
 ```
 
 # Credits
-This project would not have been possible without the contribution of:
+If you benefit from this work, please cite on your publications using:
 
-[Cláudio Matheus Modesto](https://github.com/claudio966) - [LASSE](https://github.com/lasseufpa), Federal University of Pará
+@ARTICLE{Modesto2024gnn,
+  title     = "Delay estimation based on multiple stage message passing with
+               attention mechanism using a real network communication dataset",
+  author    = "Modesto, Cl{\'a}udio and Aben-Athar, Rebecca and Silva, Andrey
+               and Lins, Silvia and Gon{\c c}alves, Glauco and Klautau,
+               Aldebaro",
+  journal   = "ITU J. (Geneva)",
+  publisher = "International Telecommunication Union",
+  volume    =  5,
+  number    =  4,
+  pages     = "465--477",
+  month     =  dec,
+  year      =  2024,
+  language  = "en"
+}
 
-[Rebecca Aben-Athar](https://github.com/rebeccaathar) - [LASSE](https://github.com/lasseufpa), Federal University of Pará
-
-Andrey Silva - Ericsson
-
-Silvia Lins - Ericsson
 
 
 
